@@ -14,7 +14,7 @@ Image Alt texts were also requested to improve the SEO score and help users with
 <span style = "color:yellow;">This was completed successfully on 31/7.</span>
 
 ## Installation
-### URL: https://github.io/bh1ff/module-1
+### URL: https://bh1ff.github.io/module-1/
 The project is live at the URL above.
 
 ## Usage 
